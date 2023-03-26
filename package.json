@@ -1,6 +1,4 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
   "name": "goat-bot-v2",
   "version": "1.2.26",
   "description": "A simple Bot chat messenger using personal account. Made by NTKhang.",
@@ -117,28 +115,4 @@
       "no-fallthrough": 1
     }
   }
-=======
-=======
->>>>>>> origin/main
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@types/node": "^18.0.6",
-    "chatgpt": "^5.1.1",
-    "node-fetch": "^3.2.6",
-    "openai-token": "^1.0.0"
-  },
-  "type": "module"
-<<<<<<< HEAD
->>>>>>> origin/main
-=======
->>>>>>> origin/main
 }
