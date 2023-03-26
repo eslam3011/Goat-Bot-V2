@@ -9,14 +9,14 @@ module.exports = {
     author: "Chat GPT",
     role: 2,
     shortDescription: {
-      en: "Check for and install updates for the chatbot.",
+      en: "   للمطور تحديث نظام البوت ",
       vi: "Kiểm tra và cài đặt bản cập nhật cho chatbot."
     },
     longDescription: {
-      en: "Checks for a new version of the chatbot on GitHub.",
+      en: " للمطور تحديث نظام البوت ",
       vi: "Kiểm tra phiên bản mới nhất của chatbot trên GitHub."
     },
-    category: "owner",
+    category: "تحديث",
     guide: {
       en: "{pn}",
       vi: "{pn}"
